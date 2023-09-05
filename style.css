@@ -236,4 +236,7 @@ td{
    .row-2{
     flex-direction: column;
    }
+   .vertical-line{
+    display: none;
+   }
 }
